@@ -1,0 +1,16 @@
+{ 
+	"name": "mattthommes/yahoo_api",
+	"description": "Scripts that interact with the Yahoo API.",
+	"authors": [{
+			"name": "Matt Thommes",
+			"email": "matt@thomm.es",
+			"homepage": "http://blog.matt.thomm.es",
+			"role": "Developer"
+		}
+	],
+	"require": {
+		"mattthommes/global": "dev-master"
+	},
+	"homepage": "http://github.com/MattThommes/yahoo_api",
+	"minimum-stability": "dev"
+}
