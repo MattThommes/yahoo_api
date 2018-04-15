@@ -1,6 +1,6 @@
 { 
 	"name": "mattthommes/yahoo_api",
-	"description": "Scripts that interact with the Yahoo API.",
+	"description": "Scripts that interact with the Yahoo API",
 	"authors": [{
 			"name": "Matt Thommes",
 			"email": "matt@thomm.es",
